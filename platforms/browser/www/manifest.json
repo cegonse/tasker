@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Tasker",
+  "short_name": "Tasker",
+  "version": "io.github.cegonse.tasker",
+  "description": "Your favourite tasks app",
+  "author": "Cesar Gonzalez Segura",
+  "icons": [],
+  "start_url": "index.html"
+}
